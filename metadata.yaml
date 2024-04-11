@@ -1,0 +1,25 @@
+_repo: Veres-vanhaa-veikeampi-b-Maalailuja-Savon-maalta_73332
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Välisalmi, Heikki
+    gutenberg_agent_id: '57036'
+    url: http://www.gutenberg.org/2009/agents/57036
+description: ''
+gutenberg_issued: '2024-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73332'
+language: fi
+pgterms:marc905: 20240402004118vlisalmi
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Kansanvalta, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Veres vanhaa veikeämpi : $b Maalailuja Savon maalta'
+url: http://www.gutenberg.org/ebooks/73332
