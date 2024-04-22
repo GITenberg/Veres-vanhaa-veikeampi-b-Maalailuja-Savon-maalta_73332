@@ -1,11 +1,16 @@
 _repo: Veres-vanhaa-veikeampi-b-Maalailuja-Savon-maalta_73332
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Välisalmi, Heikki
     gutenberg_agent_id: '57036'
     url: http://www.gutenberg.org/2009/agents/57036
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73332#Veres-vanhaa-veikeampi-b-Maalailuja-Savon-maalta
 gutenberg_issued: '2024-04-04'
 gutenberg_type: Text
 identifiers:
